@@ -1,3 +1,5 @@
+# to recharge phones from "light" instead of a wall AC outlet with a cord
+
 # SHOULD-BE-BUT-ISNT-double-sided-solar-cell-recharging-phone
 
 # residual recharging from solar cell "photovoltaic" part of phone design
