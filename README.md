@@ -4,7 +4,7 @@
 
 # residual recharging from solar cell "photovoltaic" part of phone design
 
-
+# less e-waste of usb recharging wires!
 ```
 the manufacturer of this one Motorola could have a discrete solar cell "photovoltaic" back (with different colors for customers choice)
 the front "digitizer" could also have a "transparent solar cell.."photovoltaic cell" if one could ever be fabricated
