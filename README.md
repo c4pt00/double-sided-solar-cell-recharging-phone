@@ -22,3 +22,7 @@ obviously definitely thought of before why isn't capturing gradual energy from l
 ![s1](https://raw.githubusercontent.com/c4pt00/double-sided-solar-cell-recharging-phone/refs/heads/main/increase-inside-of-small-area.png)
 
 ![s1](https://raw.githubusercontent.com/c4pt00/double-sided-solar-cell-recharging-phone/refs/heads/main/intensity-of-a-laser.png)
+
+![s1](https://raw.githubusercontent.com/c4pt00/double-sided-solar-cell-recharging-phone/refs/heads/main/lens-over-this-to-intense.png)
+
+![s1](https://raw.githubusercontent.com/c4pt00/double-sided-solar-cell-recharging-phone/refs/heads/main/biconcex.png)
