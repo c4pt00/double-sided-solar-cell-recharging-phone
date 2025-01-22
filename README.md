@@ -15,3 +15,6 @@ then there could be advancements in cellular phone digitizers and even used outs
 ```
 ![s1](https://github.com/c4pt000/double-sided-solar-cell-recharging-phone/blob/main/ezgif-1-a6ca557c20.gif)
 obviously definitely thought of before why isn't capturing gradual energy from light? sunlight or otherwise
+
+
+![s1](https://raw.githubusercontent.com/c4pt00/double-sided-solar-cell-recharging-phone/refs/heads/main/1970s.png)
